@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "message": "Fetched all socials",
+  "data": [
+    {
+      "permalink": "https://www.instagram.com/reel/DKXz2cZJPLq"
+    },
+    {
+      "permalink": "https://www.instagram.com/reel/DKLatcns7du"
+    },
+    {
+      "permalink": "https://www.instagram.com/reel/DKLPHOcJHec"
+    }
+  ]
+}

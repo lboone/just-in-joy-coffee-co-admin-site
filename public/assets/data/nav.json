@@ -1,0 +1,9 @@
+[
+  { "label": "Home", "href": "#home", "class": "active-link" },
+  { "label": "About Us", "href": "#about" },
+  { "label": "Drinks", "href": "#destination" },
+  { "label": "Shout Out", "href": "#testimonial" },
+  { "label": "Social", "href": "#social" },
+  { "label": "Gallery", "href": "#gallery" },
+  { "label": "Join", "href": "#join" }
+]

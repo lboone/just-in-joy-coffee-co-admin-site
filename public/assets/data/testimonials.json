@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Fetched all testimonials",
+  "data": [
+    {
+      "title": "Pistachi-Ooh Latte",
+      "description": "I love the variety of drinks offered by Just-In Joy Coffee Co. The flavors are unique and always fresh. My favorite is the Pistachi-Ooh Latte!",
+      "img": "assets/img/testimonial-img_man.png",
+      "imgAlt": "Lloyd",
+      "name": "Lloyd",
+      "location": "Farmer's Market"
+    },
+    {
+      "title": "Americano",
+      "description": "I love the smooth blend of the coffee. It tasted as though it had milk and cream in it, but it did not. The best American I have ever had!",
+      "img": "assets/img/testimonial-img_woman.png",
+      "imgAlt": "Melissa",
+      "name": "Melissa",
+      "location": "Delivered Fresh To My Door"
+    },
+    {
+      "title": "Lavendar Latte",
+      "description": "I love the delicious latte's that Just-In Joy Coffee Co have to offer. You can get one of a kind drinks and the service is amazing. My favorite is the Lavendar Latte!",
+      "img": "assets/img/testimonial-img_woman.png",
+      "imgAlt": "Alana",
+      "name": "Alana",
+      "location": "In-Home Tasting"
+    },
+    {
+      "title": "El Gozo",
+      "description": "This was absolutely my favorite of the many favotites! I nicknamed it 'cinco de cinco' because it was definitely a 'five out of five!' The best way to describe it is a party in your mouth.  With hints of chocolate and cinnamon and just pure deliciousness... trust me... try it!",
+      "img": "assets/img/testimonial-img_woman.png",
+      "imgAlt": "Tara",
+      "name": "Tara",
+      "location": "Wendell NC Farmer's Market"
+    }
+  ]
+}

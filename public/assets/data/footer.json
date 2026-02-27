@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Contact",
+    "links": [
+      {
+        "label": "Contact Us",
+        "href": "#tally-open=wAO0Nl&tally-hide-title=1&tally-overlay=1&tally-emoji-text=👋&tally-emoji-animation=tada&tally-auto-close=5000",
+        "external": true
+      }
+    ]
+  },
+  {
+    "title": "Booking",
+    "links": [
+      {
+        "label": "Book Us",
+        "href": "#tally-open=mVBdB6&tally-hide-title=1&tally-overlay=1&tally-emoji-text=👋&tally-emoji-animation=tada&tally-auto-close=5000",
+        "external": true
+      }
+    ]
+  },
+  {
+    "title": "Shout Out",
+    "links": [
+      {
+        "label": "Shout Out",
+        "href": "#tally-open=mBJO07&tally-hide-title=1&tally-overlay=1&tally-emoji-text=👋&tally-emoji-animation=tada&tally-auto-close=5000",
+        "external": true
+      }
+    ]
+  },
+  {
+    "title": "Social",
+    "social": [
+      {
+        "icon": "ri-instagram-fill",
+        "href": "https://www.instagram.com/justinjoycoffeeco/"
+      }
+    ]
+  }
+]

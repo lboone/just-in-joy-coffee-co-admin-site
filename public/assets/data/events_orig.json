@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Spring Coffee Kickoff",
+    "location": {
+      "address": "201 Redford Place Dr",
+      "city": "Rolesville",
+      "state": "NC",
+      "zip": "27571",
+      "country": "USA",
+      "latitude": 35.9235,
+      "longitude": -78.4572
+    },
+    "dates": [
+      {
+        "date": "April 15, 2024",
+        "starttime": "10:00 AM",
+        "endtime": "2:00 PM",
+        "totalhours": 4
+      }
+    ]
+  },
+  {
+    "name": "Six Forks Station Shopping Center",
+    "location": {
+      "address": "9517 Strickland Rd",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27615",
+      "country": "USA",
+      "latitude": 35.899651,
+      "longitude": -78.654451
+    },
+    "dates": [
+      {
+        "date": "June 9, 2025",
+        "starttime": "12:00 PM",
+        "endtime": "4:00 PM",
+        "totalhours": 4
+      },
+      {
+        "date": "June 16, 2025",
+        "starttime": "12:00 PM",
+        "endtime": "4:00 PM",
+        "totalhours": 4
+      }
+    ]
+  },
+  {
+    "name": "Cars & Coffee - Morrisville on the Park at Sweetwater Town Center",
+    "location": {
+      "address": "2701 Lawnview Lane",
+      "city": "Apex",
+      "state": "NC",
+      "zip": "27523",
+      "country": "USA",
+      "latitude": 35.76039,
+      "longitude": -78.849161
+    },
+    "dates": [
+      {
+        "date": "July 21, 2025",
+        "starttime": "08:00 AM",
+        "endtime": "11:00 AM",
+        "totalhours": 3
+      }
+    ]
+  }
+]

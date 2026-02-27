@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "message": "Fetched all featured drinks",
+  "data": [
+    {
+      "img": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7M1oxwVQpz64HVAZConS9UkNwIfLJiu1ry8Bh",
+      "alt": "Lavender Latte",
+      "subtitle": "Lavendar",
+      "title": "Latte",
+      "orderUrl": "https://just-in-joy-coffee-co.square.site/"
+    },
+    {
+      "img": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7H3OKndWVbEZgaxschdRqIiA1DvQY2TPlr4UJ",
+      "alt": "Pistachio Latte",
+      "subtitle": "Pistachio",
+      "title": "Latte",
+      "orderUrl": "https://just-in-joy-coffee-co.square.site/"
+    },
+    {
+      "img": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7Q9sT0MhDcu6ahDMW3nYEysZgqdbiPUfXNvrR",
+      "alt": "El Gozo Latte",
+      "subtitle": "El Gozo",
+      "title": "Latte",
+      "orderUrl": "https://just-in-joy-coffee-co.square.site/"
+    }
+  ]
+}

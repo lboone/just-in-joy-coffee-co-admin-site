@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Fetched all galleries",
+  "data": [
+    {
+      "img": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7fdXXLrFT3anbNeSEsv6CZzktm0Y1rdX28MVl",
+      "alt": "Wendell NC Farmer's Market",
+      "subtitle": "Wendell NC",
+      "title": "Farmer's Market"
+    },
+    {
+      "img": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7QMscgBDcu6ahDMW3nYEysZgqdbiPUfXNvrRt",
+      "alt": "Rolesville NC In-Home Tasting",
+      "subtitle": "Rolesville NC",
+      "title": "In-Home Tasting"
+    },
+    {
+      "img": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7hLw2XIr94j258akEiHBxzCNRDcVSgTUbesMr",
+      "alt": "Wendell NC Farmer's Market",
+      "subtitle": "Wendell NC",
+      "title": "Farmer's Market"
+    },
+    {
+      "img": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7OVhRPmZ82Z7b34wlj6HIhynvFrRLdxeGmkqs",
+      "alt": "Wendell NC Farmer's Market",
+      "subtitle": "Wendell NC",
+      "title": "Farmer's Market"
+    }
+  ]
+}

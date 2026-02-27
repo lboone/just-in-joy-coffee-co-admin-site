@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Fetched all home swipers",
+  "data": [
+    {
+      "src": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7lZ82qzWA8LIYmcU5ZBq16arz2e9hRuigwKoX",
+      "alt": "Handcrafted Coffee",
+      "width": 400,
+      "height": 335
+    },
+    {
+      "src": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7fdHCKCFT3anbNeSEsv6CZzktm0Y1rdX28MVl",
+      "alt": "Latte Art",
+      "width": 400,
+      "height": 335
+    },
+    {
+      "src": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7smMK0Y3BcSPlg9OpYzh0TMjueACytaVZ4Kxw",
+      "alt": "Coffee Beans",
+      "width": 400,
+      "height": 335
+    },
+    {
+      "src": "https://34vzegrc44.ufs.sh/f/OLruIQ0Z82Z7LgKns1GjzvcAxXnVJoH5dSFRMKUGa89ihWQ6",
+      "alt": "Coffee To Go",
+      "width": 400,
+      "height": 335
+    }
+  ]
+}
