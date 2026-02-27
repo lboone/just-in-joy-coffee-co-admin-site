@@ -5,6 +5,7 @@ An admin panel for managing content on the Just In Joy Coffee Co website. Built 
 ## 🚀 Deployment Instructions
 
 ### Prerequisites
+
 1. GitHub repository with your code pushed
 2. Vercel account
 3. Your backend API deployed and accessible
@@ -12,6 +13,7 @@ An admin panel for managing content on the Just In Joy Coffee Co website. Built 
 ### Step 1: Prepare for Deployment
 
 Your project is already configured with:
+
 - ✅ `vercel.json` - Vercel deployment configuration
 - ✅ `.env.production` - Production environment variables
 - ✅ `next.config.ts` - Optimized Next.js configuration
@@ -20,6 +22,7 @@ Your project is already configured with:
 ### Step 2: Deploy to Vercel
 
 #### Option A: Deploy via Vercel Dashboard
+
 1. Go to [vercel.com](https://vercel.com) and sign in
 2. Click "Import Project"
 3. Select your GitHub repository: `just-in-joy-coffee-co/http/admin-site/admin-panel`
@@ -31,6 +34,7 @@ Your project is already configured with:
    - **Install Command:** `npm install`
 
 #### Option B: Deploy via Vercel CLI
+
 ```bash
 # Install Vercel CLI
 npm i -g vercel
@@ -73,6 +77,7 @@ NEXT_PUBLIC_GATEWAY_URL=maroon-quiet-crab-480.mypinata.cloud
 To point `https://just-in-joy-coffee-co.com/admin-panel` to your Vercel deployment:
 
 #### Option A: Subdirectory Path (Recommended)
+
 1. **In Vercel:**
    - Go to Project Settings → Domains
    - Add domain: `admin.just-in-joy-coffee-co.com`
@@ -85,6 +90,7 @@ To point `https://just-in-joy-coffee-co.com/admin-panel` to your Vercel deployme
    - Add a redirect from `/admin-panel` to `https://admin.just-in-joy-coffee-co.com`
 
 #### Option B: Proxy Setup (Advanced)
+
 If you want to keep the `/admin-panel` path, you'll need to configure your main site's server to proxy requests to Vercel.
 
 ### Step 5: Verify Deployment
@@ -103,11 +109,13 @@ If you want to keep the `/admin-panel` path, you'll need to configure your main 
 ## 🔧 Development
 
 ### Local Development
+
 ```bash
 npm run dev
 ```
 
 ### Build for Production
+
 ```bash
 npm run build
 npm start
