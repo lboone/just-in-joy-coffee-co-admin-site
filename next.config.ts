@@ -16,7 +16,7 @@ const nextConfig: NextConfig = {
   },
   trailingSlash: true,
   // Remove standalone output that can cause Vercel issues
-  // output: "standalone", 
+  // output: "standalone",
   experimental: {
     // Ensure proper module resolution on Vercel
     esmExternals: true,
