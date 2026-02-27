@@ -1,7 +1,11 @@
 "use server";
 import { getToken } from "@/lib/server-actions";
 
-const API_BASE = "https://just-in-joy-coffee-co.com/api/v1/events";
+let API_BASE = process.env.API_EVENT_ENDPOINT;
+
+if (process.env.NODE_ENV === "development") {
+  API_BASE = "http://localhost:3000/api/v1/events";
+}
 
 // CREATE a event (admin only)
 export const createEvent = async (event: CreateEvent) => {
