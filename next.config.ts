@@ -15,8 +15,12 @@ const nextConfig: NextConfig = {
     ],
   },
   trailingSlash: true,
-  // Enable standalone output for better Vercel deployment
-  output: "standalone",
+  // Remove standalone output that can cause Vercel issues
+  // output: "standalone", 
+  experimental: {
+    // Ensure proper module resolution on Vercel
+    esmExternals: true,
+  },
   // Compress responses
   compress: true,
   // Configure headers for API CORS
